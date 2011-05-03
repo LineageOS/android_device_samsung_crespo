@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAEX///6Y\u003d",
+        "filename": "sec_mm/sec_omx/Android.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 68
+      },
+      "writtenOn": "2011-05-03T18:53:43Z",
+      "side": 1,
+      "message": "I find that preserving the lines that were in the previous version to be much more readable.",
+      "revId": "268115ef50dc09d9299d7ab3d3aff68a9e8d7539",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAEX///6U\u003d",
+        "filename": "sec_mm/sec_omx/Android.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 68
+      },
+      "writtenOn": "2011-05-03T18:53:43Z",
+      "side": 1,
+      "message": "Whitespace issues here, above and below.",
+      "revId": "268115ef50dc09d9299d7ab3d3aff68a9e8d7539",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
