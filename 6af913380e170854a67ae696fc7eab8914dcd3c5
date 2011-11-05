@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAK3///KQ\u003d",
+        "filename": "CrespoParts/res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 2
+      },
+      "writtenOn": "2011-11-05T06:54:22Z",
+      "side": 1,
+      "message": "Apostrophe\u0027s are causing build errors.\nLines 7, 45, \u0026 47\n\n- Fix has been submitted",
+      "revId": "6af913380e170854a67ae696fc7eab8914dcd3c5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
