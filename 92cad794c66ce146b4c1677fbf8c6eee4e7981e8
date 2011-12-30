@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAOn///jo\u003d",
+        "filename": "full_crespo.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 2
+      },
+      "writtenOn": "2011-12-30T09:12:51Z",
+      "side": 1,
+      "message": "Should PRODUCT_MANUFACTURER be Samsung?",
+      "revId": "92cad794c66ce146b4c1677fbf8c6eee4e7981e8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
