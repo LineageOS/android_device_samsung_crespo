@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAARX///ko\u003d",
+        "filename": "CrespoParts/res/values-de/arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 2967
+      },
+      "writtenOn": "2012-03-17T22:41:10Z",
+      "side": 1,
+      "message": "Ist im engl. Original auch so... aber koennte man natuerlich tauschen!",
+      "parentUuid": "AAAARX///lA\u003d",
+      "revId": "09739c0274a70628d1d56f10b98e9651d58324a7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAARX///lE\u003d",
         "filename": "CrespoParts/res/values-de/arrays.xml",
         "patchSetId": 1
@@ -47,6 +65,24 @@
       "writtenOn": "2012-03-17T22:10:24Z",
       "side": 1,
       "message": "Backlight- oder Touchkey-Notification heißt ja nicht Hintergrundbeleuchtung. Ich störe mich an Beleuchtung.\nIrgendwas wie Tasten-Benachrichtigung. Hört sich auch blöd an, aber mir fällt gerade auch nix besseres ein.",
+      "revId": "09739c0274a70628d1d56f10b98e9651d58324a7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAARX///ks\u003d",
+        "filename": "CrespoParts/res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 2967
+      },
+      "writtenOn": "2012-03-17T22:41:10Z",
+      "side": 1,
+      "message": "Bloed ist, dass es auf deutsch nichts gibt dass kurz genug ist fuer diese Beschreibung! Deshalb hab ich das so gelassen...",
+      "parentUuid": "AAAARX///k8\u003d",
       "revId": "09739c0274a70628d1d56f10b98e9651d58324a7",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
