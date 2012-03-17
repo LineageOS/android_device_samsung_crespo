@@ -37,6 +37,24 @@
     },
     {
       "key": {
+        "uuid": "AAAARX///kc\u003d",
+        "filename": "CrespoParts/res/values-de/arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1309
+      },
+      "writtenOn": "2012-03-17T22:46:59Z",
+      "side": 1,
+      "message": "Ok, dann sollte man das da vielleicht auch mal ändern. Wäre ja nur logisch, die Werte alle untereinander zu haben. Ist aber auch ein bisschen meine persönliche Meinung.",
+      "parentUuid": "AAAARX///ko\u003d",
+      "revId": "09739c0274a70628d1d56f10b98e9651d58324a7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAARX///lE\u003d",
         "filename": "CrespoParts/res/values-de/arrays.xml",
         "patchSetId": 1
@@ -83,6 +101,24 @@
       "side": 1,
       "message": "Bloed ist, dass es auf deutsch nichts gibt dass kurz genug ist fuer diese Beschreibung! Deshalb hab ich das so gelassen...",
       "parentUuid": "AAAARX///k8\u003d",
+      "revId": "09739c0274a70628d1d56f10b98e9651d58324a7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAARX///kM\u003d",
+        "filename": "CrespoParts/res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1309
+      },
+      "writtenOn": "2012-03-17T22:46:59Z",
+      "side": 1,
+      "message": "Ok, habe gehofft, dass vielleicht ne kleine Diskussion um ein besseres Wort beginnt.",
+      "parentUuid": "AAAARX///ks\u003d",
       "revId": "09739c0274a70628d1d56f10b98e9651d58324a7",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
