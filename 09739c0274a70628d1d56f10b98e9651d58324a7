@@ -122,6 +122,24 @@
       "revId": "09739c0274a70628d1d56f10b98e9651d58324a7",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAARX///j8\u003d",
+        "filename": "CrespoParts/res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 2967
+      },
+      "writtenOn": "2012-03-17T23:00:59Z",
+      "side": 1,
+      "message": "Ja bin fuer vorschlaege offen *gg* dann waere auch deepidle zu diskutieren! tiefschlaf passt mir irgendwie garnicht...",
+      "parentUuid": "AAAARX///kM\u003d",
+      "revId": "09739c0274a70628d1d56f10b98e9651d58324a7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
