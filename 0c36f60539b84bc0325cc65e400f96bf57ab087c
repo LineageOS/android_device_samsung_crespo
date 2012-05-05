@@ -1,0 +1,123 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAASn//8go\u003d",
+        "filename": "CrespoParts/res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 2783
+      },
+      "writtenOn": "2012-05-05T23:28:55Z",
+      "side": 1,
+      "message": "\"Standard\"\n\nAppears several times, won\u0027t repeat the comment.",
+      "revId": "0c36f60539b84bc0325cc65e400f96bf57ab087c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAASn//8gk\u003d",
+        "filename": "CrespoParts/res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 2783
+      },
+      "writtenOn": "2012-05-05T23:28:55Z",
+      "side": 1,
+      "message": "I would just leave out the abbrev. \"Einst.\": just say \"CM\"",
+      "revId": "0c36f60539b84bc0325cc65e400f96bf57ab087c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAASn//8gg\u003d",
+        "filename": "CrespoParts/res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 2783
+      },
+      "writtenOn": "2012-05-05T23:28:55Z",
+      "side": 1,
+      "message": "Same here, just \"Hell\"",
+      "revId": "0c36f60539b84bc0325cc65e400f96bf57ab087c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAASn//8gc\u003d",
+        "filename": "CrespoParts/res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 2783
+      },
+      "writtenOn": "2012-05-05T23:28:55Z",
+      "side": 1,
+      "message": "\"CM\"",
+      "revId": "0c36f60539b84bc0325cc65e400f96bf57ab087c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAASn//8gY\u003d",
+        "filename": "CrespoParts/res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 2783
+      },
+      "writtenOn": "2012-05-05T23:28:55Z",
+      "side": 1,
+      "message": "\"Dunkel\"",
+      "revId": "0c36f60539b84bc0325cc65e400f96bf57ab087c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAASn//8gU\u003d",
+        "filename": "CrespoParts/res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 2783
+      },
+      "writtenOn": "2012-05-05T23:28:55Z",
+      "side": 1,
+      "message": "\"Mittel (ms)\"",
+      "revId": "0c36f60539b84bc0325cc65e400f96bf57ab087c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAASn//8gQ\u003d",
+        "filename": "CrespoParts/res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 2783
+      },
+      "writtenOn": "2012-05-05T23:28:55Z",
+      "side": 1,
+      "message": "Don\u0027t know what the difference between these settings would be. The text of the choices provides no helpful explanation.",
+      "revId": "0c36f60539b84bc0325cc65e400f96bf57ab087c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
