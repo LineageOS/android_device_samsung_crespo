@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAASn//8fs\u003d",
+        "filename": "CrespoParts/res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 2783
+      },
+      "writtenOn": "2012-05-06T01:04:28Z",
+      "side": 1,
+      "message": "We don\u0027t have \u0027.\u0027 periods after other summary lines I looked at. Better leave it out, I think.",
+      "revId": "bce3db53a1da28d790ac94d287770c461d523917",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAASn//8fg\u003d",
+        "filename": "CrespoParts/res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 2783
+      },
+      "writtenOn": "2012-05-06T01:04:28Z",
+      "side": 1,
+      "message": "Don\u0027t understand what \"X-Processing\" (or the original \"Cross Proc.\") would mean, in this context. But I don\u0027t have any idea how to describe the effect in a different way, either.\n\nMaybe leave it as \"Cross Proc.\" in the translation so people who google the string will eventually find something useful about it?\n\nRafael, got any pointers about where this comes from and why is it named that way?",
+      "revId": "bce3db53a1da28d790ac94d287770c461d523917",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
