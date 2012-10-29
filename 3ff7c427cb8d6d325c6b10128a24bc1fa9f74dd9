@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAaH//9EU\u003d",
+        "filename": "CrespoParts/src/com/cyanogenmod/settings/device/GeneralFragmentActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 76,
+      "author": {
+        "id": 2431
+      },
+      "writtenOn": "2012-10-29T06:15:24Z",
+      "side": 1,
+      "message": "Could we hide or disable the idle stats item here? Perhaps simply p.setEnabled(false) so it\u0027s greyed \u0026 unclickable. Then we won\u0027t have a clickable pref that doesn\u0027t do anything.",
+      "revId": "3ff7c427cb8d6d325c6b10128a24bc1fa9f74dd9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
