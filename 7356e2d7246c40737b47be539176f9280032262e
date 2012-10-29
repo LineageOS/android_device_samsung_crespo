@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAaH//9Co\u003d",
+        "filename": "CrespoParts/src/com/cyanogenmod/settings/device/GeneralFragmentActivity.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 63,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2012-10-29T12:07:14Z",
+      "side": 1,
+      "message": "There are tabs scattered all over the file. Perhaps we should clean them up as well?",
+      "revId": "7356e2d7246c40737b47be539176f9280032262e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAaH//9Ck\u003d",
+        "filename": "CrespoParts/src/com/cyanogenmod/settings/device/GeneralFragmentActivity.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 153,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2012-10-29T12:07:14Z",
+      "side": 1,
+      "message": "Whitespace",
+      "revId": "7356e2d7246c40737b47be539176f9280032262e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
