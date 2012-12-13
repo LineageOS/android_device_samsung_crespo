@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAbH///Xo\u003d",
+        "filename": "CrespoParts/res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2012-12-13T12:45:31Z",
+      "side": 1,
+      "message": "Not sure if it is usefull info that those presets were tested by some users. :-)",
+      "revId": "dc185b84950c991406af476ce56959bc77316ab8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
