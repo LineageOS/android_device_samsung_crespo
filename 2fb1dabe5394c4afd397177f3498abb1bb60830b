@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAbn//96E\u003d",
+        "filename": "CrespoParts/src/com/cyanogenmod/settings/device/DeviceSettings.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 1576
+      },
+      "writtenOn": "2013-01-01T23:38:23Z",
+      "side": 1,
+      "message": "Using a tab instead of 4spaces.",
+      "revId": "2fb1dabe5394c4afd397177f3498abb1bb60830b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAbn//96I\u003d",
+        "filename": "CrespoParts/src/com/cyanogenmod/settings/device/DeviceSettings.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 97,
+      "author": {
+        "id": 1576
+      },
+      "writtenOn": "2013-01-01T23:38:23Z",
+      "side": 1,
+      "message": "Whitespace error.  Please fix.",
+      "revId": "2fb1dabe5394c4afd397177f3498abb1bb60830b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
