@@ -1,0 +1,208 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAdH///Tw\u003d",
+        "filename": "CrespoParts/res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2013-02-07T04:13:07Z",
+      "side": 1,
+      "message": "Deep Idle",
+      "revId": "d895684c913bb5786d43272b4572acfa5dd3ecde",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdH///Ts\u003d",
+        "filename": "CrespoParts/res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2013-02-07T04:13:07Z",
+      "side": 1,
+      "message": "Aktiviert Deep Idle (Tiefschlaf)",
+      "revId": "d895684c913bb5786d43272b4572acfa5dd3ecde",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdH///To\u003d",
+        "filename": "CrespoParts/res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2013-02-07T04:13:07Z",
+      "side": 1,
+      "message": "WM8994 Einstellungen (Voodoo)",
+      "revId": "d895684c913bb5786d43272b4572acfa5dd3ecde",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdH///TA\u003d",
+        "filename": "CrespoParts/res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2013-02-07T04:13:07Z",
+      "side": 1,
+      "message": "Farb-Voreinstellungen",
+      "revId": "d895684c913bb5786d43272b4572acfa5dd3ecde",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdH///Tk\u003d",
+        "filename": "CrespoParts/res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2013-02-07T04:13:07Z",
+      "side": 1,
+      "message": "... Gammakorrektur und Farbmultiplikator",
+      "revId": "d895684c913bb5786d43272b4572acfa5dd3ecde",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdH///Tg\u003d",
+        "filename": "CrespoParts/res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2013-02-07T04:13:07Z",
+      "side": 1,
+      "message": "Die Hintergrundbeleuchtung wird nach erhalten \neiner Nachricht aktiviert",
+      "revId": "d895684c913bb5786d43272b4572acfa5dd3ecde",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdH///Tc\u003d",
+        "filename": "CrespoParts/res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2013-02-07T04:13:07Z",
+      "side": 1,
+      "message": "Automatisches Abschalten",
+      "revId": "d895684c913bb5786d43272b4572acfa5dd3ecde",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdH///TY\u003d",
+        "filename": "CrespoParts/res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2013-02-07T04:13:07Z",
+      "side": 1,
+      "message": "Zeit nach der die Hintergrundbeleuchtung abgeschaltet wir\nd\\n(0 \u003d kein automatisches Abschalten)",
+      "revId": "d895684c913bb5786d43272b4572acfa5dd3ecde",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdH///TU\u003d",
+        "filename": "CrespoParts/res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2013-02-07T04:13:07Z",
+      "side": 1,
+      "message": "Deep Idle Statistik",
+      "revId": "d895684c913bb5786d43272b4572acfa5dd3ecde",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdH///TQ\u003d",
+        "filename": "CrespoParts/res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2013-02-07T04:13:07Z",
+      "side": 1,
+      "message": "Normal Idle",
+      "revId": "d895684c913bb5786d43272b4572acfa5dd3ecde",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdH///TM\u003d",
+        "filename": "CrespoParts/res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2013-02-07T04:13:07Z",
+      "side": 1,
+      "message": "Deep Idle (TOP\u003dEIN)",
+      "revId": "d895684c913bb5786d43272b4572acfa5dd3ecde",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdH///TI\u003d",
+        "filename": "CrespoParts/res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 57,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2013-02-07T04:13:07Z",
+      "side": 1,
+      "message": "Deep Idle (TOP\u003dAUS)",
+      "revId": "d895684c913bb5786d43272b4572acfa5dd3ecde",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
