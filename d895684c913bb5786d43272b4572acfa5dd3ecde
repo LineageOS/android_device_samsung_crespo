@@ -2,6 +2,40 @@
   "comments": [
     {
       "key": {
+        "uuid": "AAAAdH///SY\u003d",
+        "filename": "CrespoParts/res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-02-07T04:20:21Z",
+      "side": 1,
+      "message": "Nexus S-Einstellungen",
+      "revId": "d895684c913bb5786d43272b4572acfa5dd3ecde",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdH///Ss\u003d",
+        "filename": "CrespoParts/res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-02-07T04:20:21Z",
+      "side": 1,
+      "message": "Wasn\u0027t this changed to \u0027Display\u0027 in a change?",
+      "revId": "d895684c913bb5786d43272b4572acfa5dd3ecde",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAdH///Tw\u003d",
         "filename": "CrespoParts/res/values-de/strings.xml",
         "patchSetId": 2
@@ -36,6 +70,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAdH///Sk\u003d",
+        "filename": "CrespoParts/res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-02-07T04:20:21Z",
+      "side": 1,
+      "message": "Deep Idle (Tiefschlaf) aktivieren",
+      "parentUuid": "AAAAdH///Ts\u003d",
+      "revId": "d895684c913bb5786d43272b4572acfa5dd3ecde",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAdH///To\u003d",
         "filename": "CrespoParts/res/values-de/strings.xml",
         "patchSetId": 2
@@ -47,6 +99,24 @@
       "writtenOn": "2013-02-07T04:13:07Z",
       "side": 1,
       "message": "WM8994 Einstellungen (Voodoo)",
+      "revId": "d895684c913bb5786d43272b4572acfa5dd3ecde",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdH///Sg\u003d",
+        "filename": "CrespoParts/res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-02-07T04:20:21Z",
+      "side": 1,
+      "message": "WM8994-Einstellungen (Voodoo)",
+      "parentUuid": "AAAAdH///To\u003d",
       "revId": "d895684c913bb5786d43272b4572acfa5dd3ecde",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -149,6 +219,24 @@
       "writtenOn": "2013-02-07T04:13:07Z",
       "side": 1,
       "message": "Deep Idle Statistik",
+      "revId": "d895684c913bb5786d43272b4572acfa5dd3ecde",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdH///SQ\u003d",
+        "filename": "CrespoParts/res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-02-07T04:20:21Z",
+      "side": 1,
+      "message": "Deep Idle-Statistik",
+      "parentUuid": "AAAAdH///TU\u003d",
       "revId": "d895684c913bb5786d43272b4572acfa5dd3ecde",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
