@@ -1,0 +1,225 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAen//834\u003d",
+        "filename": "CrespoParts/res/values-es/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-04-10T02:21:28Z",
+      "side": 1,
+      "message": "Could you add Copyright here and the rest of the devices?",
+      "revId": "214ed9140dd91a8c75b7d67105cae6513a711d79",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//830\u003d",
+        "filename": "CrespoParts/res/values-es/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-04-10T02:21:28Z",
+      "side": 1,
+      "message": "Same here",
+      "revId": "214ed9140dd91a8c75b7d67105cae6513a711d79",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//83w\u003d",
+        "filename": "CrespoParts/res/values-es/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-04-10T02:21:28Z",
+      "side": 1,
+      "message": "Better \"Inactividad profunda\"? Up to you",
+      "revId": "214ed9140dd91a8c75b7d67105cae6513a711d79",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//83s\u003d",
+        "filename": "CrespoParts/res/values-es/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-04-10T02:21:28Z",
+      "side": 1,
+      "message": "Ajustes de color",
+      "revId": "214ed9140dd91a8c75b7d67105cae6513a711d79",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//83o\u003d",
+        "filename": "CrespoParts/res/values-es/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-04-10T02:21:28Z",
+      "side": 1,
+      "message": "Ajustes de colores gamma y multiplicadores",
+      "revId": "214ed9140dd91a8c75b7d67105cae6513a711d79",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//83U\u003d",
+        "filename": "CrespoParts/res/values-es/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-04-10T02:21:28Z",
+      "side": 1,
+      "message": "I supposed that we can use Predeterminado here",
+      "revId": "214ed9140dd91a8c75b7d67105cae6513a711d79",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//83g\u003d",
+        "filename": "CrespoParts/res/values-es/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-04-10T02:21:28Z",
+      "side": 1,
+      "message": "I supposed that we can use Predeterminado here",
+      "revId": "214ed9140dd91a8c75b7d67105cae6513a711d79",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//83c\u003d",
+        "filename": "CrespoParts/res/values-es/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-04-10T02:21:28Z",
+      "side": 1,
+      "message": "Retroiluminación (from other devices)",
+      "revId": "214ed9140dd91a8c75b7d67105cae6513a711d79",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//83Y\u003d",
+        "filename": "CrespoParts/res/values-es/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-04-10T02:21:28Z",
+      "side": 1,
+      "message": "0 signinfica no retroilumicación",
+      "revId": "214ed9140dd91a8c75b7d67105cae6513a711d79",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//83Q\u003d",
+        "filename": "CrespoParts/res/values-es/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-04-10T02:21:28Z",
+      "side": 1,
+      "message": "I supposed that we can use Predeterminado here",
+      "revId": "214ed9140dd91a8c75b7d67105cae6513a711d79",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//83M\u003d",
+        "filename": "CrespoParts/res/values-es/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-04-10T02:21:28Z",
+      "side": 1,
+      "message": "Typo: Créditos",
+      "revId": "214ed9140dd91a8c75b7d67105cae6513a711d79",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//83E\u003d",
+        "filename": "CrespoParts/res/values-es/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-04-10T02:21:28Z",
+      "side": 1,
+      "message": "Inactivo? (from my comment on cpu_deepidle_title_head). Up to you",
+      "revId": "214ed9140dd91a8c75b7d67105cae6513a711d79",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//83I\u003d",
+        "filename": "CrespoParts/res/values-es/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-04-10T02:21:28Z",
+      "side": 1,
+      "message": "Inactividad? (from my comment on cpu_deepidle_title_head). Up to you",
+      "revId": "214ed9140dd91a8c75b7d67105cae6513a711d79",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
