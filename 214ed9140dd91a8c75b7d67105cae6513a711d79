@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAen//8vY\u003d",
+        "filename": "CrespoParts/res/values-es/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 2134
+      },
+      "writtenOn": "2013-04-10T15:15:43Z",
+      "side": 1,
+      "message": "None of the other devices or default strings are copyrighted. Ihmo, should be added only to default, not here.",
+      "parentUuid": "AAAAen//834\u003d",
+      "revId": "214ed9140dd91a8c75b7d67105cae6513a711d79",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAen//830\u003d",
         "filename": "CrespoParts/res/values-es/strings.xml",
         "patchSetId": 1
@@ -53,6 +71,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAen//8vM\u003d",
+        "filename": "CrespoParts/res/values-es/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 2134
+      },
+      "writtenOn": "2013-04-10T15:15:43Z",
+      "side": 1,
+      "message": "Too long for HDPI device, not here, but yes in other translations below.",
+      "parentUuid": "AAAAen//83w\u003d",
+      "revId": "214ed9140dd91a8c75b7d67105cae6513a711d79",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAen//83s\u003d",
         "filename": "CrespoParts/res/values-es/strings.xml",
         "patchSetId": 1
@@ -64,6 +100,24 @@
       "writtenOn": "2013-04-10T02:21:28Z",
       "side": 1,
       "message": "Ajustes de color",
+      "revId": "214ed9140dd91a8c75b7d67105cae6513a711d79",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//8vI\u003d",
+        "filename": "CrespoParts/res/values-es/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 2134
+      },
+      "writtenOn": "2013-04-10T15:15:43Z",
+      "side": 1,
+      "message": "Same as Galaxy Nexus (maguro and toro).",
+      "parentUuid": "AAAAen//83s\u003d",
       "revId": "214ed9140dd91a8c75b7d67105cae6513a711d79",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -87,6 +141,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAen//8vE\u003d",
+        "filename": "CrespoParts/res/values-es/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 2134
+      },
+      "writtenOn": "2013-04-10T15:15:43Z",
+      "side": 1,
+      "message": "Same as Galaxy Nexus (maguro and toro)",
+      "parentUuid": "AAAAen//83o\u003d",
+      "revId": "214ed9140dd91a8c75b7d67105cae6513a711d79",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAen//83U\u003d",
         "filename": "CrespoParts/res/values-es/strings.xml",
         "patchSetId": 1
@@ -104,6 +176,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAen//8vA\u003d",
+        "filename": "CrespoParts/res/values-es/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 2134
+      },
+      "writtenOn": "2013-04-10T15:15:43Z",
+      "side": 1,
+      "message": "\"Predeterminado\" is too long for the button.",
+      "parentUuid": "AAAAen//83U\u003d",
+      "revId": "214ed9140dd91a8c75b7d67105cae6513a711d79",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAen//83g\u003d",
         "filename": "CrespoParts/res/values-es/strings.xml",
         "patchSetId": 1
@@ -115,6 +205,24 @@
       "writtenOn": "2013-04-10T02:21:28Z",
       "side": 1,
       "message": "I supposed that we can use Predeterminado here",
+      "revId": "214ed9140dd91a8c75b7d67105cae6513a711d79",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//8u8\u003d",
+        "filename": "CrespoParts/res/values-es/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 2134
+      },
+      "writtenOn": "2013-04-10T15:15:43Z",
+      "side": 1,
+      "message": "Same above.",
+      "parentUuid": "AAAAen//83g\u003d",
       "revId": "214ed9140dd91a8c75b7d67105cae6513a711d79",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
