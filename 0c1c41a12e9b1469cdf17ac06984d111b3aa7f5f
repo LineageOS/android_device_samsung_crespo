@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAen//7/U\u003d",
+        "filename": "CrespoParts/res/values-es/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 6020
+      },
+      "writtenOn": "2013-04-12T17:18:07Z",
+      "side": 1,
+      "message": "CM_title in values equals to CM Sett.\nMaybe could be better to put \"CyanogenMod\".\nAnyone else?",
+      "revId": "0c1c41a12e9b1469cdf17ac06984d111b3aa7f5f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//7/Y\u003d",
+        "filename": "CrespoParts/res/values-es/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 6020
+      },
+      "writtenOn": "2013-04-12T17:18:07Z",
+      "side": 1,
+      "message": "CM_title in values equals to CM Sett.\nMaybe could be better to put \"CyanogenMod\".\nAnyone else?",
+      "revId": "0c1c41a12e9b1469cdf17ac06984d111b3aa7f5f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
