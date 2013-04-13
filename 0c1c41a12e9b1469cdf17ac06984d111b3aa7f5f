@@ -73,6 +73,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAen//7tI\u003d",
+        "filename": "CrespoParts/res/values-es/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 6020
+      },
+      "writtenOn": "2013-04-13T02:36:39Z",
+      "side": 1,
+      "message": "Ajus. CM sounds good and equals with CM Sett.",
+      "parentUuid": "AAAAen//70U\u003d",
+      "revId": "0c1c41a12e9b1469cdf17ac06984d111b3aa7f5f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAen//7/Y\u003d",
         "filename": "CrespoParts/res/values-es/strings.xml",
         "patchSetId": 3
