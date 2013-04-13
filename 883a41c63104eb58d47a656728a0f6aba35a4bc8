@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAen//7sM\u003d",
+        "filename": "CrespoParts/res/values-es/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 2134
+      },
+      "writtenOn": "2013-04-13T02:55:43Z",
+      "side": 1,
+      "message": "Too long \"Ajus. CM\". I\u0027ve deleted space after dot.",
+      "revId": "883a41c63104eb58d47a656728a0f6aba35a4bc8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
