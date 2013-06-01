@@ -36,6 +36,24 @@
     },
     {
       "key": {
+        "uuid": "iOidcVo",
+        "filename": "CrespoParts/res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-06-01T14:08:40Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "iGicwWk",
+      "revId": "82bc00c934d7825b70aac468b1e60f5b4240cc0a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "iOiGkRI",
         "filename": "CrespoParts/res/values-nl/strings.xml",
         "patchSetId": 2
@@ -47,6 +65,24 @@
       "writtenOn": "2013-06-01T14:06:19Z",
       "side": 1,
       "message": "wanneer -\u003e waarna?",
+      "revId": "82bc00c934d7825b70aac468b1e60f5b4240cc0a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "iAiZxW4",
+        "filename": "CrespoParts/res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-06-01T14:08:40Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "iOiGkRI",
       "revId": "82bc00c934d7825b70aac468b1e60f5b4240cc0a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
