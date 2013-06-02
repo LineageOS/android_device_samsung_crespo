@@ -1,0 +1,123 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "iIsgL-k",
+        "filename": "CrespoParts/res/values-nl/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-06-02T05:11:46Z",
+      "side": 1,
+      "message": "mag van mij ook zonder \"geselecteerd\"",
+      "revId": "68bb82def2c28f964725033c42551231f3b4f87e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "iGsd27w",
+        "filename": "CrespoParts/res/values-nl/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-06-02T05:11:46Z",
+      "side": 1,
+      "message": "BLD(Backlight Dimmer)\nBLD allows you to turn off your capacitive button light after several seconds when you\u0027re using your phone. \n\nRead more: http://www.himzzz.com/2012/04/bln-bld-touchwake.html#ixzz2V0ql9vh8\n\n- Aanraakknoppen dimmen",
+      "revId": "68bb82def2c28f964725033c42551231f3b4f87e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "iEt59-s",
+        "filename": "CrespoParts/res/values-nl/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-06-02T05:11:46Z",
+      "side": 1,
+      "message": "- Aanraakknoppendimming instellen",
+      "revId": "68bb82def2c28f964725033c42551231f3b4f87e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "iCt.w.Q",
+        "filename": "CrespoParts/res/values-nl/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-06-02T05:11:46Z",
+      "side": 1,
+      "message": "- Tijd instellen waarna de aanraakknoppen niet meer oplichten (0 voor niet dimmen)",
+      "revId": "68bb82def2c28f964725033c42551231f3b4f87e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "iAuD-80",
+        "filename": "CrespoParts/res/values-nl/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 51,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-06-02T05:11:46Z",
+      "side": 1,
+      "message": "- Knoppenmeldingen",
+      "revId": "68bb82def2c28f964725033c42551231f3b4f87e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "iOuHq9U",
+        "filename": "CrespoParts/res/values-nl/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-06-02T05:11:46Z",
+      "side": 1,
+      "message": "- Bij meldingen aanraakknoppen oplichten",
+      "revId": "68bb82def2c28f964725033c42551231f3b4f87e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "iMttBzQ",
+        "filename": "CrespoParts/res/values-nl/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-06-02T05:11:46Z",
+      "side": 1,
+      "message": "- Opnieuw instellen",
+      "revId": "68bb82def2c28f964725033c42551231f3b4f87e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
