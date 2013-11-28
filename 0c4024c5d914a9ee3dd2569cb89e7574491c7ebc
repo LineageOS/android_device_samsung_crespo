@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa80f949_c6164255",
+        "filename": "overlay/packages/apps/Torch/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2013-11-28T22:34:09Z",
+      "side": 1,
+      "message": "Someone copy-pasted ;)",
+      "revId": "0c4024c5d914a9ee3dd2569cb89e7574491c7ebc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
